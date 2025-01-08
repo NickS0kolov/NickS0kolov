@@ -14,9 +14,9 @@ Welcome to my profile!
 
 - **Data Science Tools**:  
   ![Pandas](https://img.shields.io/badge/Pandas-1.3-blue?logo=pandas&logoColor=white)  
-  ![NumPy](https://img.shields.io/badge/NumPy-1.21.2-blue?logo=numpy&logoColor=white)  
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4-blue?logo=python&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/OpenCV-4.5.3-green?logo=opencv&logoColor=white)  
+  ![NumPy](https://img.shields.io/badge/NumPy-1.21.2-blue?logo=numpy&logoColor=white)    
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4-blue?logo=python&logoColor=white)   
+  ![OpenCV](https://img.shields.io/badge/OpenCV-4.5.3-green?logo=opencv&logoColor=white)     
   ![Albumentations](https://img.shields.io/badge/Albumentations-1.0.3-yellow?logo=python&logoColor=white)
 
 ## 🚀 Areas of Expertise
@@ -26,10 +26,11 @@ Welcome to my profile!
 - **Computer Vision**: Image Classification, Object Detection 👁️
 - **Natural Language Processing**: Text Classification, Sentiment Analysis 🧠
 
-## 🎓 Education
-- **Bachelor's Degree in Applied Mathematics**  
-  Moscow State University of Civil Engineering (currently studying)
-
+## 🎓 Education  
+**Bachelor's Degree in Applied Mathematics**:  
+- Moscow State University of Civil Engineering (currently studying)  <a href="https://mgsu.ru/" target="_blank">
+    <img src="https://raw.githubusercontent.com/NickS0kolov/NickS0kolov/main/2022-logo_cut.png" alt="МГСУ" width="25" style="vertical-align: middle;">
+  </a>
 ---
 
 ## 📞 Contact Me
