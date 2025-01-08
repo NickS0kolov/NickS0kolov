@@ -29,7 +29,7 @@ Welcome to my profile!
 ## 🎓 Education  
 **Bachelor's Degree in Applied Mathematics**:  
 - Moscow State University of Civil Engineering (currently studying)  <a href="https://mgsu.ru/" target="_blank">
-    <img src="https://raw.githubusercontent.com/NickS0kolov/NickS0kolov/main/2022-logo_cut.png" alt="МГСУ" width="25" style="vertical-align: middle;">
+    <img src="https://raw.githubusercontent.com/NickS0kolov/NickS0kolov/main/mgsu_logo.png" alt="МГСУ" width="25" style="vertical-align: middle;">
   </a>
 ---
 
