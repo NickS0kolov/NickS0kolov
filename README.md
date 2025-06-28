@@ -37,5 +37,4 @@ Welcome to my profile!
 
 - **Email**: [sokolovnickjob@gmail.com](mailto:sokolovnickjob@gmail.com)
 - **Kaggle**: [Kaggle Profile](https://www.kaggle.com/nickr0ot)
-- **Telegram Bot**: [NickRoot_Bot](https://t.me/NickRoot_Bot)
-
+- **Medium Profile**: [Medium Profile](https://medium.com/@sokolovnickjob)
